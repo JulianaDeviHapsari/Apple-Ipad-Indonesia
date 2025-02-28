@@ -9,7 +9,7 @@ Apple Ipad Indonesia landingpage using HTML , TailwindCSS, and JS in Fast Campus
 
 ## Screenshots
 
-![websiteScreenshot] .src/
+[Apple ScreenShoot](./src/assets/Screenshot%202025-02-28%20124818.png)
 
 ## Tech Stack
 
