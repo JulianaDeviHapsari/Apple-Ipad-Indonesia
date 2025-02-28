@@ -5,7 +5,7 @@ Apple Ipad Indonesia landingpage using HTML , TailwindCSS, and JS in Fast Campus
 
 ## Demo
 
-[Apple Ipad Indonesia]([https://aztrumadev-portfolio-landingpage-1.netlify.app/](https://appleipad-indonesia-6iiblkkbn-juliana-devi-hapsaris-projects.vercel.app/))
+[Apple Ipad Indonesia](https://appleipad-indonesia-6iiblkkbn-juliana-devi-hapsaris-projects.vercel.app/)
 
 ## Screenshots
 
